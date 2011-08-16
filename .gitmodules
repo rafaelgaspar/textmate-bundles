@@ -1,0 +1,21 @@
+[submodule "Bundler.tmbundle"]
+	path = Bundler.tmbundle
+	url = https://github.com/drnic/Bundler.tmbundle.git
+[submodule "AckMate.tmbundle"]
+	path = AckMate.tmbundle
+	url = https://github.com/protocool/AckMate.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = git://github.com/rspec/rspec-tmbundle.git
+[submodule "CoffeeScript.tmbundle"]
+	path = CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle
+[submodule "Copy with Style.tmbundle"]
+	path = Copy with Style.tmbundle
+	url = git://github.com/bblimke/copy-with-style-tmbundle.git
+[submodule "Pivotal Tracker.tmbundle"]
+	path = Pivotal Tracker.tmbundle
+	url = git://github.com/drnic/pivotal-tracker-tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
