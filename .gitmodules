@@ -18,4 +18,4 @@
 	url = git://github.com/drnic/pivotal-tracker-tmbundle.git
 [submodule "Cucumber.tmbundle"]
 	path = Cucumber.tmbundle
-	url = git://github.com/bmabey/cucumber-tmbundle.git
+	url = git://github.com/cucumber/cucumber-tmbundle.git
